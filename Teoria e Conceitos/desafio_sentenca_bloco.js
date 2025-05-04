@@ -1,4 +1,4 @@
-// Arquivos que de aprendizado entram Bloco, comentarios, sentenca 1 e 2 de conhecimento
+// Arquivos de aprendizado entram Bloco, comentarios, sentenca 1 e 2 de conhecimento
 
 
     // Resultado precisa ser:
